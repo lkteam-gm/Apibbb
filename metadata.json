@@ -1,0 +1,6 @@
+{
+  "name": "Uptime Monitor",
+  "description": "Ultra-lightweight uptime monitoring dashboard with live heartbeat tracking, real-time HTTP checks, and Telegram incident alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
